@@ -14,7 +14,7 @@ CogniCare is a mental health chatbot designed to provide support and assistance 
 
 ## Architecture
 
-![CogniCare Architecture](WhatsApp Image 2024-04-17 at 1.33.47 AM.jpeg)
+![CogniCare Architecture](Arch.jpeg)
 ![Work flow](Model.jpeg)
 
 ## Getting Started
