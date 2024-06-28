@@ -39,7 +39,7 @@ To use CogniCare, follow these steps:
 
 ## Screenshots
 
-![Frontend](https://drive.google.com/file/d/1Dq76zyDDHctzxdQQ0Tpd4MTIy-mUGVD3/view?usp=share_link)
+![Frontend]([https://drive.google.com/file/d/1Dq76zyDDHctzxdQQ0Tpd4MTIy-mUGVD3/view?usp=share_link](https://github.com/SubhangiSati/CogniCare-Mental-Health-Chatbot/blob/main/F1.jpeg))
 ![Initate chat](https://drive.google.com/file/d/1Z7m2yZ6f70OeLB_AwP8E_RF0wivNXvCT/view?usp=share_link)
 ![Sensitive question](https://drive.google.com/file/d/1QtCFSiNIxkIkT-95wo6W8VBbIjLA310j/view?usp=sharing)
 ![Understanding human emotions](https://drive.google.com/file/d/1ELz009bJUaraXQg1uhwPIsSG2CVj8R4a/view?usp=sharing)
