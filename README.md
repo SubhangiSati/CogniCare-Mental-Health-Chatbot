@@ -14,8 +14,8 @@ CogniCare is a mental health chatbot designed to provide support and assistance 
 
 ## Architecture
 
-![CogniCare Architecture](https://drive.google.com/file/d/1cqmcU1yQJXIDb3-jKGbPAsRXcPDyxPDp/view?usp=sharing)
-![Work flow](https://drive.google.com/file/d/17Tt6Y4iMB_WDMsGXFKmdDQC1jQcGyWtP/view?usp=sharing)
+![CogniCare Architecture](WhatsApp Image 2024-04-17 at 1.33.47 AM.jpeg)
+![Work flow](Model.jpeg)
 
 ## Getting Started
 
@@ -40,9 +40,9 @@ To use CogniCare, follow these steps:
 ## Screenshots
 
 ![Frontend](F1.jpeg)
-![Initate chat](https://drive.google.com/file/d/1Z7m2yZ6f70OeLB_AwP8E_RF0wivNXvCT/view?usp=share_link)
-![Sensitive question](https://drive.google.com/file/d/1QtCFSiNIxkIkT-95wo6W8VBbIjLA310j/view?usp=sharing)
-![Understanding human emotions](https://drive.google.com/file/d/1ELz009bJUaraXQg1uhwPIsSG2CVj8R4a/view?usp=sharing)
+![Initate chat](F2.jpeg)
+![Sensitive question](F3.jpeg)
+![Understanding human emotions](F4.jpeg)
 
 ## Feedback and Support
 
